@@ -10,4 +10,8 @@
 son
 master update
 son update
+<<<<<<< HEAD
 master update2
+=======
+son update2
+>>>>>>> son
