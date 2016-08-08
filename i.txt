@@ -6,3 +6,4 @@ dev modify the file2
 dev modify the file3
 fix bug
 local test pull
+remote test pull
